@@ -1,0 +1,2 @@
+"tau_days","control_days","treatment_days","difference_days","ci_low_days","ci_high_days","bootstrap_replicates"
+1826.25,1339.20600852424,1450.67299756477,111.46698904053,17.3731040347016,200.66771276679,1000

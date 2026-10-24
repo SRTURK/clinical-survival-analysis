@@ -1,0 +1,9 @@
+.Rlibrary/
+data/raw/
+learning/output/
+learning/my_output/
+learning/*.log
+.Rhistory
+.RData
+.Rproj.user/
+*.Rcheck/
